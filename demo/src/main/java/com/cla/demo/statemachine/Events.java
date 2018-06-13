@@ -1,0 +1,6 @@
+package com.cla.demo.statemachine;
+
+public enum Events {
+	    RINSE, DRY, STOP,DONE,
+	    RESTOREPOWER, PAUSE, RESUME, DONE_MAP, DONE_MAP_FINALIZE, DONE_INGEST, DONE_INGEST_FINALIZE, DONE_INTERIM, CUTPOWER
+	}
